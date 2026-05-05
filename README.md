@@ -18,7 +18,8 @@ code-alpha-music-player/
 │── index.html
 │── style.css
 │── script.js
-│── songs/
+│── music/
+│── images/
 │── README.md
 ⚙️ How It Works
 Audio is controlled using the HTML <audio> element.
