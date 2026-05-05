@@ -7,7 +7,7 @@ Audio progress bar with real-time updates
 Display of current time and total duration
 Dynamic song switching
 Responsive and clean UI
-Volume control (if implemented)
+Volume control
 🛠️ Built With
 HTML5 – Structure of the player
 CSS3 – Styling and layout
@@ -39,7 +39,7 @@ Managing multiple media files
 🔧 Installation & Usage
 Clone the repository:
 Bash
-git clone https://github.com/your-username/code-alpha-music-player.git
+git clone https://github.com/ijidamir/CodeAlpha_Music_Player.git
 Open the project folder and run:
 Bash
 index.html
